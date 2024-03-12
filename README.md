@@ -7,22 +7,9 @@ This project is a custom Pin keyboard implemented using native Android Kotlin, i
 
 # Screen recordings
 
-<details>
-<summary>Android Screen Recording</summary>
-   <video controls width="640" height="360">
-      <source src="./screen-recording/android.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-   </video>
-</details>
+https://github.com/kassemitani/rn-custom-keyboard/assets/605868/99ced77d-0f57-4083-88b4-78ab9a9f7776 
 
-<details>
-<summary>iOS Screen recording</summary>
-   <video controls width="640" height="360">
-      <source src="./screen-recording/ios.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-   </video>
-</details>
-
+https://github.com/kassemitani/rn-custom-keyboard/assets/605868/2905d984-a7c3-4f7f-a33c-117e9155a5d0
 
 
 
@@ -40,6 +27,11 @@ To run this project, follow the steps below:
      
      # OR using Yarn
      yarn start
+     ```
+   - Install Pods for ios: 
+     ```bash
+     cd ios
+     bundle exec pod install
      ```
 
 2. Start Application:
